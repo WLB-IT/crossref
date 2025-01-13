@@ -17,7 +17,7 @@ After installation, the plugin will set up a settings form for the registration 
 
 Please enter your Crossref credentials for the deposit via HTTP.
 
-Under DOIs you can now export XMLs (if multiple XMLs are ticket, they will be packaged into a tar.gz.) and deposit to Crossref.
+Under DOIs you can now export XMLs (if multiple XMLs are ticked, they will be packaged into a tar.gz.) and deposit to Crossref.
 
 ### Monographs and Chapters
 The XMLs are constructed according to the following resources:
