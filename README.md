@@ -1,8 +1,8 @@
 # crossref
-Crossref Plugin for OMP 3.4
+Crossref plugin for OMP 3.4
 
 ## Description
-Based on the crossref plugin for OJS 3.4, this is a crossref plugin for OMP 3.4.
+Based on the Crossref plugin for OJS 3.4, this is a Crossref plugin for OMP 3.4.
 This plugin allows to register DOIs for monographs and their chapters with crossref using HTTP.
 
 ## Using the Plugin
@@ -15,9 +15,9 @@ Install the plugin via the editor backend or move it to the folder "/plugins/gen
 After installation, the plugin will set up a settings form for the registration agency. The form can be found under "distribution":
 ![image](https://github.com/user-attachments/assets/ac468b5f-bc21-4d6a-b7af-cb7bdab6599a)
 
-Please enter your crossref credentials for the deposit via HTTP.
+Please enter your Crossref credentials for the deposit via HTTP.
 
-Under DOIs you can now export XMLs (if multiple XMLs are ticket, they will be packaged into a tar.gz.) and deposit to crossref.
+Under DOIs you can now export XMLs (if multiple XMLs are ticket, they will be packaged into a tar.gz.) and deposit to Crossref.
 
 ### Monographs and Chapters
 The XMLs are constructed according to the following resources:
